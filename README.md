@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @filsuin
-- 👀 I’m interested in coding small, everyday tools to make life easier.
-- 🌱 I’m currently learning advanced data structures and algorithms, as well as exploring new programming languages.
-- 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 📫 How to reach me: [filsuin21@gmail.com]
-- 😄 Pronouns: He/Him
+- 👋 Привет, я @filsuin
+- 👀 Я интересуюсь кодингом небольших, повседневных инструментов, чтобы сделать жизнь проще.
+- 🌱 В настоящее время я изучаю продвинутые структуры данных и алгоритмы, а также знакомлюсь с новыми языками программирования.
+- 💞️ Я хочу сотрудничать с проектами с открытым исходным кодом и инновационными технологическими решениями.
+- 📫 Как со мной связаться: [filsuin21@gmail.com]
+- 😄 Отчества: Он/Она
 
 <!---
-filsuin/filsuin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+filsuin/filsuin - это ✨ особый ✨ репозиторий, потому что его `README.md` (этот файл) появляется в вашем профиле на GitHub.
+Вы можете нажать на ссылку Preview, чтобы взглянуть на свои изменения.
+---&gt;
